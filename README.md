@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sharanya 👋
 
-<!--
-**Sharanyaaa08/Sharanyaaa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CSE student at NIT Warangal  
+📱 Building Android projects using Java, XML & Firebase  
+💡 Interested in Open Source, Development & DSA  
+🚀 Currently learning GitHub contributions and real-world software development
 
-Here are some ideas to get you started:
+## Projects
+- Smart Attendance Management System
+- Expense Tracker (HTML/CSS/JS)
+- DSA Practice in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java 
+- C++ 
+- Firebase 
+- HTML 
+- CSS 
+- JavaScript 
+- Git 
+- GitHub
+
+## Currently Exploring
+- Open Source Contributions
+- Android Development
+- Problem Solving 
